@@ -1,7 +1,7 @@
 - 👋 Olá meu nome é Gabi
 - 👀 Eu estou interessada em aprender.
 - 🌱 Estou aprendendo no momento a como jogar
-- 💞️ preocurando boas notas 
+- 💞️ procurando boas notas 
 - 📫  como me achar = gabrielly.ordone@escola.pr.gov.br
 
 <!---
